@@ -1,3 +1,4 @@
+## (A Minor Project)
 # AI-Based-Fake-Job-Posting-Detector
 A full-stack job verification web application that uses machine learning text classification and database fuzzy matching to analyze listings for potential fraud.
 
@@ -22,7 +23,7 @@ A full-stack job verification web application that uses machine learning text cl
 
 
 
-## 🚀 Ensure These For Quick Start: 
+## 🚀 Ensure These For Quick Start 
 
 ### 1. Prerequisites
 Ensure you have Python 3.9+ installed on your system.
@@ -45,4 +46,13 @@ pip install fastapi uvicorn pandas thefuzz nltk scikit-learn sqlalchemy
 ```
 python app.py
 ```
+## Screenshots
+<img width="1495" height="719" alt="image" src="https://github.com/user-attachments/assets/5e06dafa-c099-4774-a670-286e78c3d802" />
+<img width="1270" height="559" alt="image" src="https://github.com/user-attachments/assets/255abd7b-c81f-4638-9bf5-f9461bad271c" />
+<img width="1458" height="698" alt="image" src="https://github.com/user-attachments/assets/392fb938-d922-4b05-96e2-c523da8c90ed" />
+<img width="1450" height="715" alt="image" src="https://github.com/user-attachments/assets/e7e08b8a-2ec0-4276-83c4-db431eb107eb" />
+
+
+
+
    
